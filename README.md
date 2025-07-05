@@ -12,7 +12,7 @@
     <a href="mailto:yesshuzaifa@gmail.com">
       <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
-    <a href="ui-ux-hackhathone.vercel.app" target="_blank">
+    <a href="https://huzaifa-official-portfolio.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Website-%23007ACC.svg?logo=About.me&logoColor=white" alt="Website Badge"/>
     </a>
     <a href="https://linkedin.com/in/muhammad-huzaifa-9102282b7/" target="_blank">
