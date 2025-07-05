@@ -40,7 +40,7 @@
 
 ## 🚀 About Me
 
-I’m a passionate Front-End Engineer specializing in modern web apps and intelligent agents:
+I’m a passionate Full-Stack Developer specializing in modern web apps and intelligent agents:
 
 - 🔭 Currently building **agentic AI solutions** with the OpenAI Agent SDK  
 - 🌱 Continuously learning advanced patterns in **Next.js**, **TypeScript** & **TailwindCSS**  
