@@ -7,7 +7,7 @@
 <p align="center">
 <img src="https://i.ibb.co/DHHFGvJJ/linkdln-banner-bold-font.jpg" alt="Banner" width="100%" />
   <h1>Hi, I’m Huzaifa_Dev 👋</h1>
-  <p>Front-End Developer &amp; Agentic AI SDK Engineer</p>
+    <p>Full-Stack Developer &amp; Agentic AI SDK Engineer</p>
   <p>
     <a href="mailto:yesshuzaifa@gmail.com">
       <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email Badge"/>
@@ -53,15 +53,15 @@ I’m a passionate Front-End Engineer specializing in modern web apps and intell
 
 ### 1. **Agentic Chatbot** 🤖  
 A conversational AI agent built on the OpenAI Agent SDK, integrated into a Next.js frontend for an interactive support portal.  
-[View Repo »](https://github.com/YOUR_USERNAME/agentic-chatbot)
+[View Repo »](https://github.com/HezziCode/My-What-sApp-Agent.git)
 
 ### 2. **Portfolio Site** 💼  
 Personal portfolio showcasing projects, blog, and live demos. Built with Next.js, Tailwind CSS, and Sanity CMS.  
-[View Live »](https://ui-ux-hackhathone.vercel.app) • [View Code »](https://github.com/HezzoCode/ui-ux-hackhathone)
+[View Live »](https://huzaifa-official-portfolio.vercel.app) • [View Code »](https://github.com/HezzoCode/Huzaifa.Official-Portfolio.git)
 
 ### 3. **Realtime Dashboard** 📊  
 A Sanity analytics dashboard with real-time updates, authentication, and role-based access control.  
-[View Repo »](https://github.com/HezzoCode/ui-ux-hackhathone)
+[View Live »](https://ui-ux-hackhathone/admin.vercel.app) • [View Repo »](https://github.com/HezzoCode/ui-ux-hackhathone) 
 
 ---
 
@@ -70,8 +70,8 @@ A Sanity analytics dashboard with real-time updates, authentication, and role-ba
 Feel free to reach out:
 
 - 📧 Email: [Huzaifa](yesshuzaifa@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/Huzaida](https://linkedin.com/in/YOUR_LINKEDIN)  
-- 🌐 Website: [Huzaifa](ui-ux-hackhathone.vercel.app)
+- 💼 LinkedIn: [linkedin.com/in/Huzaida](https://www.linkedin.com/in/muhammad-huzaifa-44752a301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 🌐 Website: [Huzaifa](https://huzaifa-official-portfolio.vercel.app/)
 
 ---
 
