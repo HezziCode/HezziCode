@@ -70,7 +70,7 @@ A Sanity analytics dashboard with real-time updates, authentication, and role-ba
 Feel free to reach out:
 
 - 📧 Email: [Huzaifa](yesshuzaifa@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/Huzaida](https://www.linkedin.com/in/muhammad-huzaifa-44752a301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 💼 LinkedIn: [linkedin.com/in/Huzaida]([https://www.linkedin.com/in/muhammad-huzaifa-44752a301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/huzaifa-54b26737b?utm_source=share_via&utm_content=profile&utm_medium=member_android))  
 - 🌐 Website: [Huzaifa](https://huzaifa-official-portfolio.vercel.app/)
 
 ---
