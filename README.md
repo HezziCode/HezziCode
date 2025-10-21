@@ -1,74 +1,100 @@
-<!--
-  README for [Your Name]'s GitHub Profile
-  Replace all placeholders (YOUR_NAME, YOUR_EMAIL, YOUR_WEBSITE, YOUR-IMAGE-URL, etc.)
--->
+# Hi I’m Huzaifa. 👋
 
-<!-- PROFILE HEADER -->
 <p align="center">
-<img src="https://i.ibb.co/DHHFGvJJ/linkdln-banner-bold-font.jpg" alt="Banner" width="100%" />
-  <h1>Hi, I’m Huzaifa_Dev 👋</h1>
-    <p>Full-Stack Developer &amp; Agentic AI SDK Engineer</p>
-  <p>
-    <a href="mailto:yesshuzaifa@gmail.com">
-      <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
-    <a href="https://huzaifa-official-portfolio.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Website-%23007ACC.svg?logo=About.me&logoColor=white" alt="Website Badge"/>
-    </a>
-    <a href="https://linkedin.com/in/muhammad-huzaifa-9102282b7/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </p>
+  <img src="https://i.ibb.co/DHHFGvJJ/linkdln-banner-bold-font.jpg" alt="Banner" width="100%" />
 </p>
 
+<p align="center">
+  <a href="mailto:yesshuzaifa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://huzaifa-official-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%23007ACC.svg?logo=about.me&logoColor=white" alt="Website Badge"/>
+  </a>
+  <a href="https://linktr.ee/huzaifasys" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-9EDB60.svg?logo=linktree&logoColor=white" alt="Linktree Badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=huzaifasys" alt="Profile views" />
+</p>
+
+---
+
+## 👋 About Me
+
+I’m **Huzaifa.** Full-Stack Developer & Agentic AI SDK Engineer focused on modern web apps and autonomous agents.
+
+- 🔭 Building **agentic AI solutions** using the **OpenAI Agent SDK**, integrated into Next.js frontends and productionized with cloud infrastructure (AWS CDK).
+- 🌱 Deepening knowledge in **Next.js**, **TypeScript**, **TailwindCSS**, **agentic architectures**, and **scalable infra** patterns.
+- 👯 I enjoy solving complicated problems and delivering production-ready systems.
+- 💬 Ask me about **Next.js**, **Python**, **OpenAI Agent SDK**, and designing hybrid web + agent architectures.
+- 
 ---
 
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js Badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript Badge"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" alt="TailwindCSS Badge"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5 Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3 Badge"/>
-  <img src="https://img.shields.io/badge/Sanity-181717?logo=sanity&logoColor=white" alt="Sanity Badge"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase Badge"/>
-  <img src="https://img.shields.io/badge/OpenAI-AgentSDK-1099ED?logo=openai&logoColor=white" alt="OpenAI Agent SDK Badge"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Sanity-181717?logo=sanity&logoColor=white" alt="Sanity"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/OpenAI-AgentSDK-1099ED?logo=openai&logoColor=white" alt="OpenAI Agent SDK"/>
+  <img src="https://img.shields.io/badge/AWS_CDK-232F3E?logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Prompt%20Context%20Engineering-FF7A59?logo=openai&logoColor=white" alt="Prompt & Context Engineering"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 Core Skills
 
-I’m a passionate Full-Stack Developer specializing in modern web apps and intelligent agents:
-
-- 🔭 Currently building **agentic AI solutions** with the OpenAI Agent SDK  
-- 🌱 Continuously learning advanced patterns in **Next.js**, **TypeScript** & **TailwindCSS**  
-- 💡 Love crafting pixel-perfect UIs & seamless developer experiences  
-- 🔧 Comfortable working with **Sanity** CMS & **Firebase** backend services  
+- **Languages & Frameworks:** TypeScript, Next.js, Python
+- **Agentic AI:** OpenAI Agent SDK, autonomous workflows, multi-agent orchestration  
+- **Cloud & DevOps:** AWS, scalable infra patterns, CI/CD, containerization (Kubernetes basics)  
+- **Data & Backend:** Sanity CMS, Firebase 
+- **Tools:** VS Code, Git, GitHub, Vercel
 
 ---
 
-## 🔍 Featured Projects
+## Projects & Work
 
-### 1. **Agentic Chatbot** 🤖  
-A conversational AI agent built on the OpenAI Agent SDK, integrated into a Next.js frontend for an interactive support portal.  
-[View Repo »](https://github.com/HezziCode/My-What-sApp-Agent.git)
+I focus on building hybrid web apps and autonomous agents — from prototypes to production-ready systems. Highlights include freelance client work (Upwork), agent experiments, and scalable Next.js applications. Check my portfolio for demos and agent scaffolds.
 
-### 2. **Portfolio Site** 💼  
-Personal portfolio showcasing projects, blog, and live demos. Built with Next.js, Tailwind CSS, and Sanity CMS.  
-[View Live »](https://huzaifa-official-portfolio.vercel.app) • [View Code »](https://github.com/HezzoCode/Huzaifa.Official-Portfolio.git)
-
-### 3. **Realtime Dashboard** 📊  
-A Sanity analytics dashboard with real-time updates, authentication, and role-based access control.  
-[View Live »](https://ui-ux-hackhathone/admin.vercel.app) • [View Repo »](https://github.com/HezzoCode/ui-ux-hackhathone) 
+- Portfolio: https://huzaifa-official-portfolio.vercel.app  
+- Featured: freelance projects, agent experiments, production Next.js apps
 
 ---
 
 ## 📫 Get In Touch
 
-Feel free to reach out:
+<p align="center">
+  <a href="mailto:yesshuzaifa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linktr.ee/huzaifasys" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-9EDB60?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
+  </a>
+</p>
 
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yesshuzaifa@gmail.com)  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa-54b26737b?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
-- [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://huzaifa-official-portfolio.vercel.app/)
+---
+
+## 🔎 What I’m looking for
+
+- Collaborations on **agentic AI** projects and cloud-native applications.  
+- Contract / freelance opportunities to deliver pragmatic, production-ready solutions.  
+- Teams building scalable autonomous systems or AI-first products.
+
+---
+
+## ⚡ Fun / Misc
+
+- Always learning — currently deepening into autonomous agent patterns and infra-as-code.  
+- If you’d like to chat about a project, collaboration, or hire me — drop a message via Linktree or LinkedIn.
+
+---
+
+If you like my work feel free to **⭐** the repos you find useful and **follow** for updates.  
+
+Thanks for stopping by! ✨
