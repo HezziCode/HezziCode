@@ -42,7 +42,6 @@ I’m **Huzaifa.** Full-Stack Developer & Agentic AI SDK Engineer focused on mod
   <img src="https://img.shields.io/badge/Sanity-181717?logo=sanity&logoColor=white" alt="Sanity"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/OpenAI-AgentSDK-1099ED?logo=openai&logoColor=white" alt="OpenAI Agent SDK"/>
-  <img src="https://img.shields.io/badge/AWS_CDK-232F3E?logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Prompt%20Context%20Engineering-FF7A59?logo=openai&logoColor=white" alt="Prompt & Context Engineering"/>
 </p>
 
