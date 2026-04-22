@@ -1,7 +1,9 @@
 # Hi I’m Huzaifa. 👋
 
 <p align="center">
-  <img src="https://i.ibb.co/DHHFGvJJ/linkdln-banner-bold-font.jpg" alt="Banner" width="100%" />
+<p align="center">
+  <img src="https://i.ibb.co/XfMNhRWY/banner-for-linkdln.png" alt="banner-for-linkdln" width="100%" />
+</p>
 </p>
 
 <p align="center">
