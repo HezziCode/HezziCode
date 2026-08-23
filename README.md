@@ -4,9 +4,10 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=20&pause=1200&color=F59E0B&center=true&vCenter=true&width=680&lines=AI+Engineer;Building+Autonomous+Agents+%26+Digital+FTEs;Next.js+%7C+TypeScript+%7C+Python+%7C+OpenAI+SDK;Crafting+Modern%2C+Intelligent+Web+Applications" alt="Typing SVG" />
   </a>
+</p>
 
 ---
-</p>
+
 ## 👨‍💻 About Me
 
 I'm a **AI Engineer** passionate about building modern web applications and autonomous AI agents that turn complex workflows into intuitive, high-performance solutions.
@@ -91,20 +92,34 @@ I'm a **AI Engineer** passionate about building modern web applications and auto
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HezziCode/HezziCode/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HezziCode/HezziCode/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/HezziCode/HezziCode/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</p>
+
+---
+
 ## 📫 CONNECT WITH ME
 
 <p align="center">
   <a href="https://github.com/HezziCode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:huzaifasys@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/huzaifasys/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linktr.ee/huzaifasys" target="_blank"><img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
+  <a href="https://huzaifa-official-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"From Assembly to AI - Building across the full stack of computing."</i>
+  ⚡ <i>"Building modern, scalable, and autonomous agentic AI solutions."</i> ⚡<br>
+  Built with ❤️ by <b><a href="https://github.com/HezziCode">Huzaifa</a></b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=huzaifasys&color=D85A30&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HezziCode&color=F59E0B&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
